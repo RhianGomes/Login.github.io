@@ -27,6 +27,7 @@ form{
 .login h1{
     margin-bottom: 25px;
     color: #333;
+
 }
 
 .campo label{
@@ -35,7 +36,7 @@ form{
     margin-top: 30px;
     color: #666;
     font-size: 18px;
-
+    
 }
 
 
@@ -60,6 +61,11 @@ input{
     cursor: pointer;
     font-size: 18px;
     margin-bottom: 13px;
+    
+    & a{
+        color: white;
+        text-decoration: none;
+    }
 }
 
 
